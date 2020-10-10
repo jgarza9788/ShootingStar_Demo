@@ -16,7 +16,9 @@ Contact Info: [justingarza.net/contact](http://justingarza.net/contact/)
   
 Description/Features
 -------------------------------------
-A simple game template with a Level Menu, Level Data Management, Level Unlocking, and more!* LevelMenu
+A simple game template with a Level Menu, Level Data Management, Level Unlocking, and more!
+
+* LevelMenu
  * Touch Gestures
  * Level Unlocking
  * Level to Scene Mapping
@@ -28,7 +30,9 @@ A simple game template with a Level Menu, Level Data Management, Level Unlocking
  * And MORE!
 * Code Comments
 …Reach out to me to request new features!
-
+
+
+
 Terms of Use
 -------------------------------------
 You are free to add this asset to any game you’d like
